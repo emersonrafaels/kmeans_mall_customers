@@ -64,6 +64,6 @@ Before starting, you will need to have the following tools installed on your mac
 
 This project is under the MIT license.
 
-Made with ❤️ by **Emerson Rafael** 👋🏽 [Entre em contato!](https://www.linkedin.com/in/emerson-rafael/)
+Made with ❤️ by **Emerson Rafael** 👋🏽 [Contact Me!](https://www.linkedin.com/in/emerson-rafael/)
 
 [Python]: https://www.python.org/downloads/
