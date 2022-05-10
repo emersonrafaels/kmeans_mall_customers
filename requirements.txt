@@ -1,0 +1,6 @@
+pandas==1.2.4
+scikit-learn==1.0.1
+feature-engine
+matplotlib
+seaborn
+plotly
